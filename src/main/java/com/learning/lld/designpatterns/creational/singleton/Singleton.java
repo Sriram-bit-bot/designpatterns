@@ -1,4 +1,4 @@
-package com.learning.lld.designpatterns.singleton;
+package com.learning.lld.designpatterns.creational.singleton;
 
 public final class Singleton {
     private static Singleton singletonInstance =null;

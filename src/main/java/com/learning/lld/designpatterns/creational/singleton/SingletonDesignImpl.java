@@ -1,4 +1,4 @@
-package com.learning.lld.designpatterns.singleton;
+package com.learning.lld.designpatterns.creational.singleton;
 // Creational Design Pattern - 1
 public class SingletonDesignImpl{
     public static void main(String[] args) {
